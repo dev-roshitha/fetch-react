@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-react/static/css/main.96230ec5.css",
+    "main.js": "/fetch-react/static/js/main.6243a3f0.js",
+    "index.html": "/fetch-react/index.html",
+    "main.96230ec5.css.map": "/fetch-react/static/css/main.96230ec5.css.map",
+    "main.6243a3f0.js.map": "/fetch-react/static/js/main.6243a3f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96230ec5.css",
+    "static/js/main.6243a3f0.js"
+  ]
+}
